@@ -1,0 +1,277 @@
+
+{
+ "name": "Technology development",
+ "free": true,
+ "type": "",
+ "children": [
+   {
+    "name": "Economic scale",
+    "free": true,
+	 "type": "",
+    "description": "Represents companies operating in the market",
+    "children": [
+     {
+      "name": "Low capacity",
+      "description": " ",
+      "type": "",
+	  "free": true,
+      "children": [
+		{
+		  "name": "Cotton",
+		  "description": "",
+		   "type": "",
+		  "free": true
+		},
+		{
+		  "name": "Polyester",
+		  "type": "",
+		  "description": "",
+		  "free": true
+		},
+		{
+		  "name": "Polyester/cotton mix",
+		  "type": "",
+		  "description": "",
+		  "free": true,
+		  "children": [
+			{
+			"name": "Canalt",
+			  "description": "Workwear remanufacturing",
+			  "url": "https://canaltredesign.dk/",
+			  "country": "Denmark",
+			  "type": "reuse",
+			  "free": true
+			}
+		  ]
+		},
+		{
+		  "name": "Nylon",
+		  "type": "",
+		  "description": "",
+		  "free": true
+		},
+		{
+		  "name": "Others",
+		  "type": "",
+		  "description": "",
+		  "free": true
+		}
+      ]
+     },
+     {
+      "name": "Medium capacity",
+	  "free": true,
+      "type": "",
+	  "children": [
+       {
+		  "name": "Cotton",
+		  "description": "",
+		  "type": "",
+		  "free": true
+		},
+		{
+		  "name": "Polyester",
+		  "description": "",
+		  "type": "",
+		  "free": true
+		},
+		{
+		  "name": "Polyester/cotton mix",
+		  "description": "",
+		  "type": "",
+		  "free": true
+		},
+		{
+		  "name": "Nylon",
+		  "description": "",
+		   "type": "",
+		  "free": true
+		},
+		{
+		  "name": "Others",
+		  "description": "",
+		   "type": "",
+		  "free": true
+		}
+      ]
+     },
+	 {
+      "name": "High capacity",
+	  "free": true,
+       "type": "",
+	  "children": [
+       {
+		  "name": "Cotton",
+		  "description": "",
+		  "free": true,
+		   "type": "",
+		  "children": [
+			  {
+			  "name": "SOEX Group",
+			  "description": "German company specialised in fibre recovery",
+			  "url": "http://soex.de",
+			  "country": "Germany",
+			  "type": "fibre",
+			  "free": true
+			  }
+		  ]
+		},
+		{
+		  "name": "Polyester",
+		  "description": "",
+		   "type": "",
+		  "free": true,
+		  "children": [
+			  {
+			  "name": "Teijin",
+			  "description": "Japanese company and the main player in the field of chemical polyester recycling",
+			  "url": "http://soex.de",
+			  "country": "Japan",
+			  "type": "material",
+			  "free": true
+			  }
+		  ]
+		},
+		{
+		  "name": "Polyester/cotton mix",
+		  "description": "",
+		   "type": "",
+		  "free": true
+		},
+		{
+		  "name": "Nylon",
+		  "description": "",
+		   "type": "",
+		  "free": true
+		},
+		{
+		  "name": "Others",
+		  "description": "",
+		   "type": "",
+		  "free": true
+		}
+      ]
+     }
+    ]
+   },
+   {
+    "name": "Laboratory scale",
+    "description": "The process was tested on a small scale but no factory is existent",
+    "free": true,
+     "type": "",
+	"children": [
+     {
+      "name": "Cotton",
+      "description": " ",
+       "type": "",
+	  "free": true
+	},
+	{
+      "name": "Polyester",
+      "description": " ",
+      "free": true,
+	   "type": "",
+	  "children": [
+		{
+		"name": "Trash2cash project",
+		"description": "International project aiming to develop the new circular solution for the recycling of polyester and polyester/cotton blends",
+		"url": "http://www.trash2cashproject.eu",
+		"country": "Europe",
+		"project": true,
+		"free": true,
+		"children": [
+			{
+			"name": "Aalto University",
+			"description": "Aalto University School of Arts, Design and Architecture, is a community of bold thinkers in the fields of technology, business, art and design. It is known for its research and industrial collaborative projects, integrating design into Finnish innovation and business networks.",
+			"url": "http://www.aalto.fi/en/",
+			"country": "Finland",
+			"free": true
+			},
+			{
+			"name": "CIDETEC",
+			"description": "IK4-CIDETEC Technology Centre is a member of IK4 Research Alliance, an expert in the generation and transfer of knowledge and technology in the fields of materials, surfaces and energy. The Centre’s fundamental mission is to increase, through the development of new products and processes, the capacity for innovation and competitiveness of industrial companies.",
+			"url": "http://www.cidetec.es/en/",
+			"country": "Spain",
+			"free": true
+			},
+			{
+			"name": "SOEX Group",
+			"description": "As the global leader in the field of used textile marketing and recycling, with offices and shareholdings in 7 countries and more than 1,000 employees, the SOEX GROUP has been giving a new lease on life to used clothing for over 30 years.",
+			"url": "http://www.soexgroup.de/",
+			"country": "Germany",
+			"free": true
+			}
+		]
+		}
+	  ]
+	},
+	{
+      "name": "Polyester/cotton mix",
+      "description": " ",
+      "free": true,
+	   "type": "",
+	  "children": [
+		{
+		"name": "Trash2cash project",
+		"description": "International project aiming to develop the new circular solution for the recycling of polyester and polyester/cotton blends",
+		"url": "http://www.trash2cashproject.eu",
+		"country": "Europe",
+		"project": true,
+		"free": true
+		}
+	  ]
+	},
+	{
+      "name": "Nylon",
+      "description": " ",
+       "type": "",
+	  "free": true
+	},
+	{
+      "name": "Others",
+      "description": " ",
+       "type": "",
+	  "free": true
+	}
+	]
+   },
+   {
+    "name": "In the research stage",
+    "free": true,
+    "description": "The technology is currently being developed but no real life experiments were conducted",
+     "type": "",
+	"children": [
+	{
+      "name": "Cotton",
+      "description": "",
+       "type": "",
+	  "free": true
+	},
+	{
+      "name": "Polyester",
+      "description": "",
+       "type": "",
+	  "free": true
+	},
+	{
+      "name": "Polyester/cotton mix",
+      "description": "",
+       "type": "",
+	  "free": true
+	},
+	{
+      "name": "Nylon",
+      "description": "",
+       "type": "",
+	  "free": true
+	},
+	{
+      "name": "Others",
+      "description": "",
+       "type": "",
+	  "free": true
+	}
+	]
+	}
+   ]
+   }
